@@ -2,11 +2,11 @@
 
 ### Write three paragraphs. Complete the planning sheets in the next pages. Each paragraph must be 125-150 words in length.
  
-- [ ] 1. My bedroom is the messiest room in our house.
-- [ ] 1. I don't know how I would get along without my best friend.
-- [ ] 1. There are several ways to make money when you are a teenager.
-- [ ] 1. I really love(hate) to go camping/vacation in the summer
-- [ ] 1. I really love(hate) to go skiing/snowboarding in the winter.
-- [ ] 1. Parents should(should not) spank children who are misbehaving.
-- [ ] 1. People judge others by the clothes they wear.
-- [ ] 1. Money does not buy happiness.
+- [ ] My bedroom is the messiest room in our house.
+- [ ] I don't know how I would get along without my best friend.
+- [ ] There are several ways to make money when you are a teenager.
+- [ ] I really love(hate) to go camping/vacation in the summer
+- [ ] I really love(hate) to go skiing/snowboarding in the winter.
+- [ ] Parents should(should not) spank children who are misbehaving.
+- [ ] People judge others by the clothes they wear.
+- [ ] Money does not buy happiness.
