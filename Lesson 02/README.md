@@ -8,10 +8,10 @@ Topic Sentence: Country is my favorite type of music**
 
 **Topic**
 
-- [ ] A person you admire
-- [ ] A good memory
-- [ ] Winter Sports
-- [ ] Courage
+- [x] A person you admire
+- [x] A good memory
+- [x] Winter Sports
+- [x] Courage
 - [ ] Cowardice
 
 ### Writing Exercise
