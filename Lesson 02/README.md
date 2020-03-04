@@ -12,7 +12,7 @@ Topic Sentence: Country is my favorite type of music**
 - [x] A good memory
 - [x] Winter Sports
 - [x] Courage
-- [ ] Cowardice
+- [x] Cowardice
 
 ### Writing Exercise
 **Complete the planning sheets  in Writing Exercise.docx, and then write three paragraphs. Each paragraph must be 125-150 words in length**
