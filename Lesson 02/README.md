@@ -18,9 +18,7 @@ Topic Sentence: Country is my favorite type of music**
 **Complete the planning sheets  in Writing Exercise.docx, and then write three paragraphs. Each paragraph must be 125-150 words in length**
 
 - [x] Computer games
-- [ ] Goals in life
-- [ ] Movies
-- [ ] A person you world like to meet.
-- [ ] My best friend
-- [ ] What I do to relax.
-- [ ] The best day of my life
+- [x] Goals in life
+- [x] Movies
+- [x] My best friend
+- [x] What I do to relax.
