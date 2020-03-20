@@ -5,23 +5,23 @@
 
 **Topic Sentence**
 
-- [ ] Long life is not always a blessing.
-- [ ] Teens should not be given credit card.
-- [ ] Most television shows are not worth watching.
+- [x] Long life is not always a blessing.
+- [x] Teens should not be given credit card.
+- [x] Most television shows are not worth watching.
 
 ### Writing Exercise
-**Complete the planning sheets  in Writing Exercise.docx, and then write three paragraphs. Each paragraph must be 125-150 words in length**
+**you are going to wrtie three paragraphs on the same topic. That means that you will have to develop three different topic sentences for the topic. Since the paragraphs are all separate, they do not have to have any relationship to each other. Each paragraph must be 125-150 words in length.**
 
-- [x] Computer games
+- [x] It is difficult to make true friends at university.
 
-- [x] Goals in life
+- [ ] A friend know me better than my own family.
 
-- [x] Movies
+- [ ] You must attend your friend's wedding.
 
-- [x] My best friend
+- [x] It it very good to work at the sam place as your friend.
 
-- [x] What I do to relax.
+- [x] It is hard to chooes friend's brithday present.
 
   
 
-#### from 2020.03.11 to 2020.03.10
+#### from 2020.03.11 to 2020.03.17
