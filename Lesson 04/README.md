@@ -8,15 +8,15 @@
 
 **topic**
 
-- [ ] the first hour of your average day.
-- [ ] The most unforgettable event in your life
+- [x] the first hour of your average day.
+- [x] The most unforgettable event in your life
 
 #### Writing 2
 **Write a Paragraph on one of the following topics using space order.**
 
 **topic**
 
-- [ ] Your hose
+- [ ] Your house
 - [ ] Your classroom
 
 #### Writing 3
@@ -29,4 +29,4 @@
 
   
 
-#### from 2020.03.11 to 2020.03.17
+#### from 2020.03.20 to 2020.03.
